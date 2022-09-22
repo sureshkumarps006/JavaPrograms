@@ -67,7 +67,6 @@ public class Employeeoverloadingandoverriding {
 		e2.getEmpWithSal(36000);
 		
 		//MethodOverriding
-		e1.display("Ravi");
 		e2.display("Ramu");
 		
 		
