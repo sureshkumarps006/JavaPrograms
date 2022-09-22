@@ -1,4 +1,3 @@
-package com.codebind;
 class Employeee{
 	int empid;
 	String pnumber;
