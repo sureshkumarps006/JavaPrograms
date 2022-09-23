@@ -1,5 +1,3 @@
-package com.codebind;
-
 import java.util.ArrayList;
 
 class B{
