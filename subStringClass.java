@@ -1,5 +1,3 @@
-package com.codebind;
-
 public class subStringClass {
 
 	public static void main(String[] args) {
