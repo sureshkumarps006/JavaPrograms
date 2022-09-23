@@ -1,5 +1,3 @@
-package com.codebind;
-
 final class Usingfinal{
 	private final String name;
 	
