@@ -1,5 +1,3 @@
-package com.codebind;
-
 public class ReverseString {
 
 	public static void main(String[] args) {
