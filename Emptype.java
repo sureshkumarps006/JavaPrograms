@@ -1,5 +1,3 @@
-package com.codebind;
-
 class A{
 	String emptype;
 	int empid;
