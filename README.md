@@ -10,6 +10,6 @@
 9) EmployeeReg class is to validate the employee details like email, employee id, phone number and address.
 10) ExceptionHandling_ArithmeticExceptionHandling is to demonstarte ArithmeticException using try and catch statements.
 11) ExceptionHandling_IndexOutOfBound is to demonstarte IndexOutOfBound Exception using nested try, catch and finally statements.
-
+12) ExceptionHandling_AgeValidationCustomExceptionHandling class is to create custom exception handling using throw statement.
 
      
