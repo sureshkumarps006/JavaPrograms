@@ -59,7 +59,7 @@ public class EmployeeReg {
 					
 		case 4 : System.out.println("Enter your address and pin code");
 					String pincode = sc.next();
-					String pincodereg ="^[A-Za-z0-9\\s]+\\s[1-9][0-9]{5}$";
+					String pincodereg ="^[a-zA-Z0-9\s\,\''\-]*$";
 					boolean pincoderesult = pincode.matches(pincodereg);
 					if(pincoderesult) {
 						System.out.print("Entered pincode is valid");
