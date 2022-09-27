@@ -8,7 +8,7 @@
      We can not modify the member of immutable class after creation of object.
 8) Patternmatching class is to demonstrate the regularexpression by using compile and matches method.
 9) EmployeeReg class is to validate the employee details like email, employee id, phone number and address.
-The following restrictions are imposed in the email address local part:
+    The following restrictions are imposed in the email address local part:
     a) It allows numeric values from 0 to 9.
     b) Both uppercase and lowercase letters from a to z are allowed.
     c) Allowed are underscore “_”, hyphen “-“, and dot “.”
