@@ -1,15 +1,14 @@
-    EmpConstructor class is to demonstrate initializing variables using constructor and displaying the details of employee.
-    Employeeoverloadingandoverriding class is to demonstrate method overloading and method overriding concept using inheritance.
-    Emptype class is to demonstrate if-else, switch and break statements.
-    ContinueImp class is to demonstrate continue statement using foreach loop.
-    subStringClass is to demonstrate extracting substring from a string using builtin methods.
-    ReverseString class is to demonstrate reversing a string using single for loop and charAt() string method.
-    Immutable class is to demonstarte immutable class as well as immutable members of that class using final and private keywords.
+EmpConstructor class is to demonstrate initializing variables using constructor and displaying the details of employee.
+Employeeoverloadingandoverriding class is to demonstrate method overloading and method overriding concept using inheritance.
+Emptype class is to demonstrate if-else, switch and break statements.
+ContinueImp class is to demonstrate continue statement using foreach loop.
+subStringClass is to demonstrate extracting substring from a string using builtin methods.
+ReverseString class is to demonstrate reversing a string using single for loop and charAt() string method.
+Immutable class is to demonstarte immutable class as well as immutable members of that class using final and private keywords.
      We can not modify the member of immutable class after creation of object.
-    Patternmatching class is to demonstrate the regularexpression by using compile and matches method.
-    EmployeeReg class is to validate the employee details like email, employee id, phone number and address.
-
-    The following restrictions are imposed in the email address local part:
+Patternmatching class is to demonstrate the regularexpression by using compile and matches method.
+EmployeeReg class is to validate the employee details like email, employee id, phone number and address.
+The following restrictions are imposed in the email address local part:
     a) It allows numeric values from 0 to 9.
     b) Both uppercase and lowercase letters from a to z are allowed.
     c) Allowed are underscore “_”, hyphen “-“, and dot “.”
