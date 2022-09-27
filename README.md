@@ -6,4 +6,5 @@
 5) Usage of Substring builtin method(subStringClass.java)
 6) Reverse a string using charAt() method (ReverseString.java)
 7) Immutable class(Immutable.java)
-8) Usage of Regular Expression(EmployeeReg.java )
+8) Usage of Regex for pattern matching(Patternmatching.java ) 
+9) Usage of Regular Expression(EmployeeReg.java )
