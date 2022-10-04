@@ -30,7 +30,6 @@ public class EmployeeHashMapWithOutDuplicate {
 		map.put(obj1,1);
 		map.put(obj2,6);
 		map.put(obj3,8);
-		map.put(obj3,8);
 		System.out.println(map);
 
 	}
