@@ -23,5 +23,5 @@
 21) HashMapp class is to demonstrate the properties of HashMap which not follows insertion order and doesn't allow duplicate entries.
 22) EmployeeHashMapWithDuplicate class is to demonstrate the hashmap class which allows to store duplicate entries.
 23) EmployeeHashMapWithOutDuplicate class is to demonstrate the hashmap class which doestn't allow duplicate entries to store.
-24) LinkedHashMapp class is to demonstrate the properties of LinkedHashMap class which follows insertion order and doesn't allow duplicate entries.
-25) TreeMapp class is to demonstrate the properties of TreeMap which used to store the entries in sorted order.
+24) TreeMapp class is to demonstrate the properties of TreeMap which used to store the entries in sorted order.
+25) LinkedHashMapp class is to demonstrate the properties of LinkedHashMap class which follows insertion order and doesn't allow duplicate entries.
