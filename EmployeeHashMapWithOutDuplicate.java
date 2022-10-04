@@ -16,6 +16,20 @@ class Employe2{
 		return id+" :"+empname;
 	}
 	
+    public int hashCode(){
+        int hashcode = 0;
+        return hashcode;
+    }
+
+    public boolean equals(Object obj){
+        if(obj instanceof Employe2){
+        	Employe2 emp = (Employe2) obj;
+            return (emp.empname.equals(this.empname) && emp.id == this.id);
+        }else {
+            return false;
+        }
+    }
+	
 }
 public class EmployeeHashMapWithOutDuplicate {
 
