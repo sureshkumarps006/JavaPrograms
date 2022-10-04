@@ -14,7 +14,9 @@
 12) ExceptionHandling_IndexOutOfBound is to demonstarte IndexOutOfBound Exception using nested try, catch and finally statements.
 13) ExceptionHandling_AgeValidationUsingThrow is to demonstarte how to throw an exception using throw statement.
 14) ExceptionHandling_AgeValidationCustomExceptionHandling class is to handle and creating an custom exception using throw statement.
-15) CollectionImplement class is implementing the collection and displaying the last node data.
-16) Collection_Linkedlist class is to demonstrate the working of an Linkedlist(the methods created to add the data and displaying all the data of an linked list)
+15) CollectionDemo demonstrate the working of an ArrayList
+16) CollectionImplement class is implementing the collection and displaying the last node data.
+17) Collection_Linkedlist class is to demonstrate the working of an Linkedlist(the methods created to add the data and displaying all the data of an linked list)
+18) 
 
      
