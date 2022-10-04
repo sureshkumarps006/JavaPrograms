@@ -17,6 +17,6 @@
 15) CollectionDemo demonstrate the working of an ArrayList
 16) CollectionImplement class is implementing the collection and displaying the last node data.
 17) Collection_Linkedlist class is to demonstrate the working of an Linkedlist(the methods created to add the data and displaying all the data of an linked list)
-18) 
+
 
      
