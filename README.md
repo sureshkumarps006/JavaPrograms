@@ -25,3 +25,5 @@
 23) EmployeeHashMapWithOutDuplicate class is to demonstrate the hashmap class which doestn't allow duplicate entries to store.
 24) TreeMapp class is to demonstrate the properties of TreeMap which used to store the entries in sorted order.
 25) LinkedHashMapp class is to demonstrate the properties of LinkedHashMap class which follows insertion order and doesn't allow duplicate entries.
+26) ExtendingThread class is to demonstrate Thread by extending the Thread Class and using the getName method to get the thread name.
+27) ThreadDemo class is to demonstrate the join method
