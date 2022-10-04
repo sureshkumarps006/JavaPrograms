@@ -17,6 +17,11 @@
 15) CollectionDemo demonstrate the working of an ArrayList
 16) CollectionImplement class is implementing the collection and displaying the last node data.
 17) Collection_Linkedlist class is to demonstrate the working of an Linkedlist(the methods created to add the data and displaying all the data of an linked list)
-
-
-     
+18) CollectionLinkedHashSet class is to demonstrate the properties of LinkedHashSet which doesn't allow duplicate values, It follows insertion order and allows at most one null value.
+19) CollectionTreeSet class is to demonstrate the properties of TreeSet which doesn't allow null values.
+20) CollectionHashtSet class is to demonstrate the properties of HashSet which doesn't follow insertion order, Allows at most one null value and doesn't allow duplicate values.
+21) HashMapp class is to demonstrate the properties of HashMap which not follows insertion order and doesn't allow duplicate entries.
+22) EmployeeHashMapWithDuplicate class is to demonstrate the hashmap class which allows to store duplicate entries.
+23) EmployeeHashMapWithOutDuplicate class is to demonstrate the hashmap class which doestn't allow duplicate entries to store.
+24) LinkedHashMapp class is to demonstrate the properties of LinkedHashMap class which follows insertion order and doesn't allow duplicate entries.
+25) TreeMapp class is to demonstrate the properties of TreeMap which used to store the entries in sorted order.
