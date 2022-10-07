@@ -1,5 +1,3 @@
-package com.codebind;
-
 class MainThread extends Thread{
 	int i;
 	public void run(){
