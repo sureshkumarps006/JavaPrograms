@@ -1,5 +1,3 @@
-package com.codebind;
-
 class Myclass extends Thread{
 	static int count=0;
 	void inc(){
