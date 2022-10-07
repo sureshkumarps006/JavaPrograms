@@ -1,5 +1,3 @@
-package com.codebind;
-
 class MainnThreadd implements Runnable{
 	int i;
 	public void run(){
