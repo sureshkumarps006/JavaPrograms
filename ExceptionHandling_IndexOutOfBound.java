@@ -1,5 +1,3 @@
-package com.codebind;
-
 public class ExceptionHandling_IndexOutOfBound {
 
 	public static void main(String[] args) {
