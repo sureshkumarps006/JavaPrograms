@@ -1,5 +1,3 @@
-package com.codebind;
-
 class InvalidAgeException extends Exception{
 	InvalidAgeException(String s)
 	{
