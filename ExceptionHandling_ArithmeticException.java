@@ -1,6 +1,3 @@
-package com.codebind;
-
-
 public class ExceptionHandling_ArithmeticException {
 
 	public static void main(String[] args) {
