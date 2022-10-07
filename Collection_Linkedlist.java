@@ -1,6 +1,3 @@
-package com.codebind;
-
-
 class LinkedList{
 class Node{
 	int data;
