@@ -38,4 +38,4 @@
 36) HundredTaskWithCacheThread class demonstrate the working of an hundred tasks by using CachedThreadPool method.rate 
 37) WithoutSynchronizationDemo class demonstrate the running of an multiple threads Without Synchronization.
 38) SynchronizationDemo class demonstrate the running of an multiple threads in a Synchronization way by using Synchronization key word.
-39)SynchronizationBlockDemo class demonstrate the running of an multiple threads in a Synchronization block.
+39) SynchronizationBlockDemo class demonstrate the running of an multiple threads in a Synchronization block.
