@@ -39,3 +39,5 @@
 37) WithoutSynchronizationDemo class demonstrate the running of an multiple threads Without Synchronization.
 38) SynchronizationDemo class demonstrate the running of an multiple threads in a Synchronization way by using Synchronization key word.
 39) SynchronizationBlockDemo class demonstrate the running of an multiple threads in a Synchronization block.
+40) RunnableTask class demonstrate the callable interface and call method.
+41) OddEven class demonstrate the wait and notifyAll methods of threads while printing odd and even numbers.
