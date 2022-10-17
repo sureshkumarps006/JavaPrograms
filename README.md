@@ -41,3 +41,4 @@
 39) SynchronizationBlockDemo class demonstrate the running of an multiple threads in a Synchronization block.
 40) RunnableTask class demonstrate the callable interface and call method.
 41) OddEven class demonstrate the wait and notifyAll methods of threads while printing odd and even numbers.
+42) ManagementSystemJAVATEST java test.
