@@ -11,7 +11,7 @@ public class CollectionDemo {
 		list.add(55);
 		list.add(10);
 		list.add(null);
-		list.add(60);
+		list.add(50);
 		list.add(30);
 		list.add(null);
 		list.add(1);
