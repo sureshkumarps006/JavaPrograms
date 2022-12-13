@@ -12,7 +12,7 @@ public class CollectionDemo {
 		list.add(10);
 		list.add(null);
 		list.add(60);
-		list.add(20);
+		list.add(30);
 		list.add(null);
 		list.add(1);
 		System.out.println(list);
